@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Troque SEUDOMINIO.pt pelo seu domínio real (aqui e no sitemap.xml):
+Sitemap: https://www.SEUDOMINIO.pt/sitemap.xml
